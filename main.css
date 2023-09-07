@@ -90,7 +90,7 @@ navbar::before{
 #education{
   display:flex;
   flex-direction:column;
-  background-color:#00ad79;
+  background-color:#255b4a;
 }
 #education h1{
   margin:60px;
