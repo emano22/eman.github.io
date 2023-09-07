@@ -13,7 +13,7 @@ html{
   position:sticky;
   top:0;
 }
-.navbar::before{
+navbar::before{
   content:"";
   position:absolute;
   background-color: rgba(0,0,0,0.5);
@@ -90,7 +90,7 @@ html{
 #education{
   display:flex;
   flex-direction:column;
-  background-color:darkblue;
+  background-color:#00ad79;
 }
 #education h1{
   margin:60px;
